@@ -34,5 +34,4 @@ and the final output layer uses the sigmoid function for binary classification b
 Due to a limited dataset gathering time (16 hrs), our model faced overfitting issues since it 
 lacked diverse samples for training. Consequently, it achieved an accuracy of 72% for fake images 
 and 91% for real images. A larger and more diverse dataset is needed to improve the model's 
-generalization and overall performance.
-
+generalization and overall performance. For future iterations, the plan is to develop a multiclass classifier capable of distinguishing between various types of damage, besides car damage, such as house damage and more. By expanding the dataset with a broader range of damage categories, the aim is to create a robust model that can accurately classify different types of damages and provide more valuable insights for relevant applications.
