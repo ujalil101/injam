@@ -1,9 +1,9 @@
 # Car Crash Classification using a Convolutional Neural Network
 
 ## Requirements
-> Python (>=3.6)
-> TensorFlow (>=2.0) or other compatible deep learning frameworks
-> Jupyter Notebook (for running the provided notebooks)
+* Python (>=3.6)
+* TensorFlow (>=2.0) or other compatible deep learning frameworks
+* Jupyter Notebook (for running the provided notebooks)
 
 
 ## Introduction
